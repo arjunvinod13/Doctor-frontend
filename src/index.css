@@ -1,13 +1,11 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,300;1,200;1,400&family=Courgette&family=Roboto+Condensed:ital,wght@0,400;1,300&family=Rubik:ital,wght@1,500&family=Satisfy&family=Sofia+Sans+Extra+Condensed:ital@1&display=swap');
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Rubik;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+ /* body {
+    background-image: url(https://img.freepik.com/free-photo/young-handsome-physician-medical-robe-with-stethoscope_1303-17818.jpg?w=1060&t=st=1704667485~exp=1704668085~hmac=bad9aa09aaeb62a58201907df51915cfe453bb957d67b4ede2781c9107937005);
+    background-size: 100%;
+ } */
+ 
